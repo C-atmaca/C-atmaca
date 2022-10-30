@@ -15,8 +15,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammedatmc/](https://www.linkedin.com/in/muhammedatmc/)
 
-<h3 align="middle">Connect with me:</h3>
-<p align="middle">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/muhammed atmaca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="muhammed atmaca" height="30" width="40" /></a>
 </p>
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-atmaca&show_icons=true&theme=gruvbox" alt="c-atmaca" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c-atmaca&theme=gruvbox" alt="c-atmaca" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=c-atmaca&theme=gruvbox" alt="c-atmaca" /></p>
