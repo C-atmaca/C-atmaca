@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Unity, C#, C++, OOP, Game Development**
 
-- 📫 How to reach me **rmk.atmaca@gmail.com** <a<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> </a>
+- 📫 How to reach me **rmk.atmaca@gmail.com** <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammedatmc/](https://www.linkedin.com/in/muhammedatmc/)
 
