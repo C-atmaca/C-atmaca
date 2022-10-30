@@ -1,6 +1,6 @@
-<!--<p align="center">
-  <img width="460" height="300" src="https://cdn52.picsart.com/182110625003202.gif">
-</p>-->
+<p align="center">
+  <img width="460" height="300" src="https://github.com/C-atmaca/C-atmaca/blob/main/banner.png">
+</p>
 
 
 
