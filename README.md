@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/C-atmaca/C-atmaca/blob/main/banner.png">
+  <img src="https://github.com/C-atmaca/C-atmaca/blob/main/banner.png">
 </p>
 
 
