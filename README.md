@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rmk.atmaca@gmail.com** <!--<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>-->
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/muhammedatmc/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammed atmaca"/></a>
+- 📄 Know about my experiences & connect with me <a href="https://www.linkedin.com/in/muhammedatmc/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammed atmaca"/></a>
 
 <!--<h3 align="left">Connect with me:</h3>  [https://www.linkedin.com/in/muhammedatmc/](https://www.linkedin.com/in/muhammedatmc/) -->
 
