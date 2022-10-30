@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Unity, C#, C++, OOP, Game Development**
 
-- 📫 How to reach me <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+- 📫 How to reach me <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="40" height="40"/> </a>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammedatmc/](https://www.linkedin.com/in/muhammedatmc/)
 
