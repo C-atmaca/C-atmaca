@@ -10,7 +10,7 @@
 
 - 💻 I’m currently working on **a variety of casual/hyper-casual mobile games**
 
-- 🌱 I’m currently learning **windows desktop app development, game development concepts & design patterns**
+- 🌱 I’m currently learning **game design, game development concepts & design patterns**
 
 - 💬 Ask me about **Unity, C#, C++, OOP, Game Development**
 
